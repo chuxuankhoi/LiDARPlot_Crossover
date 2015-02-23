@@ -14,3 +14,8 @@ Date		Version		Changes
 2015-01-15	0.0.5		Fix bugs when selecting illegal color; clean code
 2015-01-27	0.0.6		Display LAS information, add Tools menu (framework, no real tools), draw points based on their return (points selection and points' color), improve color calculation
 2015-02-13	0.0.7		Draw part by part; use box when dragging; crop based on selected points
+2015-02-19	0.1.0		First release with basic features.
+
+Issues:
+1. Time for loading and buffering data are too long
+2. Calculation time for features based on data is too long
